@@ -53,4 +53,4 @@
 
 **Cnblogs-Theme-SimpleMemory** © [BNDong](https://github.com/BNDong), Released under the [MIT](./LICENSE) License.<br>
 
-> Blog [@Blog](https://www.cnblogs.com/bndong/) · GitHub [@GitHub](https://github.com/BNDong) · Email dbnuo@foxmail.com
+> Blog [@Blog](https://www.cnblogs.com/MaxBaiSecurity/) · GitHub [@GitHub](https://github.com/MaxSecurity/) · 
